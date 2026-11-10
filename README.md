@@ -2,7 +2,7 @@
 
 **Know the building before you sign.** Type any San Francisco address and get a plain-language report on the building, written by Mistral from the city's own open data: complaints and violations, permits and works, evictions on the block, fire calls, police incidents nearby and 311 reports. Then hear from tenants, check your lease, and find a neighborhood that fits your budget.
 
-🔗 **Live demo: https://know-your-building.onrender.com** (free hosting: the first load can take up to a minute while the server wakes up)
+🔗 **Live demo: https://know-your-building-lm5f.onrender.com** (free hosting: the first load can take up to a minute while the server wakes up)
 
 Built in one evening at the **Mistral AI × Elastic hackathon**, San Francisco, November 2026.
 
@@ -24,9 +24,11 @@ Nearly two thirds of San Francisco households rent. You get a fifteen-minute sho
 | **Trust network** | Inspired by Paris' "Gens de confiance": recommendations from friends, former landlords and roommates, contactable tenants of the building, and roommate matching that never uses gender, religion or origin. |
 | **More** | Follow a building and see what changed, compare two buildings side by side, commute times, four languages (EN, ES, 中文, FR). |
 
-| Report, by theme | Assistant + map | Trust network |
-|---|---|---|
-| ![Report](docs/screenshots/report.jpg) | ![Assistant](docs/screenshots/assistant.jpg) | ![Trust](docs/screenshots/trust.jpg) |
+| Mistral verdict | Official records, by theme |
+|---|---|
+| ![Mistral verdict for 907 Valencia St](docs/screenshots/verdict.jpg) | ![Report themes](docs/screenshots/report.jpg) |
+| **Assistant + map** | **Trust network** |
+| ![Assistant](docs/screenshots/assistant.jpg) | ![Trust](docs/screenshots/trust.jpg) |
 
 ## Data
 
